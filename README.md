@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Go and Flutter**
 
-- 💬 Ask me about **PHP, Laravel, Jquery, NGINX, MySQL**
+- 💬 Ask me about **PHP, Laravel, Jquery, Javascript, NGINX, MySQL**
 
 - 📫 How to reach me **aliihsansepar@gmail.com**
 
