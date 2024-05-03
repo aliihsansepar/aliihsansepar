@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali İhsan Şepar</h1>
 <h3 align="center">A curious web developer</h3>
 
-- 🌱 I’m currently learning **Go and Flutter**
+- 🌱 I’m currently learning **[Go](https://go.dev/)**
 
-- 💬 Ask me about **PHP, Laravel, Jquery, Javascript, NGINX, MySQL**
+- 💬 Ask me about **PHP, Laravel, Javascript, NGINX, MySQL**
 
 - 📫 How to reach me **aliihsansepar@gmail.com**
 
